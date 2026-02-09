@@ -1,1 +1,14 @@
-node_modules
+node_modulessrc/
+build/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+package.json
+package-lock.json
+vite.config.ts
+tsconfig.json
+tsconfig.app.json
+postcss.config.js
+tailwind.config.js
